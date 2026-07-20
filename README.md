@@ -8,7 +8,13 @@ We’re all about **open learning, collaboration, and reproducibility**—so fee
 Happy coding, and enjoy the journey! 🚀
 
 ### Topics Covered
-- **Agentic AI for Education**
+- **Applied Agentic AI**
     - [2026 Fairuuz : Agentic RAG on Knowledge Base for QA Chatbot](https://github.com/fairuuz16/agentic-rag)
+- **Applied Data Augmentation**
+    - [2026 Davin : Imbalance Data Resampling for Credit Card Fraud](https://github.com/davinfrp/Tugas-Akhir-S1)
 - **Author Recommendation System**
     - [2026 Idris : Transformer based Scopus Co-author Recommendation](https://github.com/morisab/coauthor-recommender)
+- **Football Analytics with AI**
+    - [2026 Valentino : Multiple View VAR using Attention](https://github.com/valenreswara/foul-detection-knowledge-distillation)
+- **Industrial Optimization with AI**
+    - [2026 Yanuar : Container Loading Optimization](https://github.com/pramudyanuar/tugas-akhir)
