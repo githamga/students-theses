@@ -8,5 +8,7 @@ We’re all about **open learning, collaboration, and reproducibility**—so fee
 Happy coding, and enjoy the journey! 🚀
 
 ### Topics Covered
-- TBA
-    - TBA
+- **Agentic AI for Education**
+    - [2026 Fairuuz : Agentic RAG on Knowledge Base for QA Chatbot](https://github.com/fairuuz16/agentic-rag)
+- **Author Recommendation System**
+    - [2026 Idris : Transformer based Scopus Co-author Recommendation](https://github.com/morisab/coauthor-recommender)
