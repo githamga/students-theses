@@ -11,6 +11,9 @@ Happy coding, and enjoy the journey! 🚀
 Check out at its.id/tabola for Football Analytics with AI topics
 
 ### Topics Covered
+>Note: Most of the repositories are **private**, so access request is needed.
+>Please contact me at ilhamgurata@its.ac.id if interested. Otherwise it will show 404 error upon opening
+
 - **Applied Agentic AI**
     - [2526E Fairuuz : Agentic RAG on Knowledge Base for QA Chatbot](https://github.com/fairuuz16/agentic-rag)
 - **Applied Data Augmentation**
