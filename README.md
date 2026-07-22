@@ -33,3 +33,5 @@ Check out at its.id/tabola for Football Analytics with AI topics
     - [2526E Dana : Inverse Harmonic Weight to Find IBFS](https://github.com/DanaS003/Inverse_Harmonic_Weighted_Transportation_Problem)
 - **Smart City with AI**
     - [2526E Zharga : Bus Routing Suggestion using GA](https://github.com/ZhargaM8/TA). View related publication [here](https://ieeexplore.ieee.org/document/11369700)
+- **Software Development**
+    - [2526E Koresy and Ranto : Re-engineering of TORA App for Transportation Problem](https://github.com/korekorokero/kyrbi).
