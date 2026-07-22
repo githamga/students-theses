@@ -16,11 +16,13 @@ Check out at its.id/tabola for Football Analytics with AI topics
 
 - **Applied Agentic AI**
     - [2526E Fairuuz : Agentic RAG on Knowledge Base for QA Chatbot](https://github.com/fairuuz16/agentic-rag)
+    - [2526E Hardy : Agentic RAG for LED Document Retrieval](https://github.com/hardytee1/Agentic-Retrieval-LED)
 - **Applied Data Augmentation**
     - [2526E Davin : Imbalance Data Resampling for Credit Card Fraud](https://github.com/davinfrp/Tugas-Akhir-S1)
 - **Author Recommendation System**
     - [2526E Idris : Transformer based Scopus Co-author Recommendation](https://github.com/morisab/coauthor-recommender). View related publication [here](https://www.sciencedirect.com/science/article/pii/S2215016125004273?via%3Dihub)
 - **Football Analytics with AI**
+    - [2526E Ivan : Football Event Spotting with ASTRM and SoftIC Loss](https://github.com/mlikiwe/tugas_akhir_sc)
     - [2526E Valentino : Model Distillation of Multiple View VAR using Attention](https://github.com/valenreswara/foul-detection-knowledge-distillation)
 - **Industrial Optimization with AI**
     - [2526E Amanda : Application of Shapelet for Fault Detection](https://github.com/amandaillona0908/shapelet_method)
