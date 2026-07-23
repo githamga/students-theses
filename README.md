@@ -23,6 +23,8 @@ Check out at its.id/tabola for Football Analytics with AI topics
     - [2526E Ricardo : Privacy Protection for Scopus Co-author Recommendation](https://github.com/Ricardo08S/code-TA-final). View related publication [here](https://www.sciencedirect.com/science/article/pii/S2215016125004273?via%3Dihub)
 - **Applied Recommendation System**
     - [2526E Idris : Transformer based Scopus Co-author Recommendation](https://github.com/morisab/coauthor-recommender). View related publication [here](https://www.sciencedirect.com/science/article/pii/S2215016125004273?via%3Dihub)
+- **Art Analysis with AI**
+    - [2526E Fadhiil : Music Genre Classification with Deep Learning](https://github.com/KMZeeee/Tugas-Akhir_5025221144/)
 - **Football Analytics with AI**
     - [2526E Gian : Football Player Tracking with Deep OC-Sort and YOLOX](https://github.com/stevanza/Tugas-Akhir)
     - [2526E Ivan : Football Event Spotting with ASTRM and SoftIC Loss](https://github.com/mlikiwe/tugas_akhir_sc)
