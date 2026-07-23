@@ -24,6 +24,7 @@ Check out at its.id/tabola for Football Analytics with AI topics
 - **Applied Recommendation System**
     - [2526E Idris : Transformer based Scopus Co-author Recommendation](https://github.com/morisab/coauthor-recommender). View related publication [here](https://www.sciencedirect.com/science/article/pii/S2215016125004273?via%3Dihub)
 - **Football Analytics with AI**
+    - [2526E Gian : Football Player Tracking with Deep OC-Sort and YOLOX](https://github.com/stevanza/Tugas-Akhir)
     - [2526E Ivan : Football Event Spotting with ASTRM and SoftIC Loss](https://github.com/mlikiwe/tugas_akhir_sc)
     - [2526E Valentino : Model Distillation of Multiple View VAR using Attention](https://github.com/valenreswara/foul-detection-knowledge-distillation)
 - **Industrial Optimization with AI**
@@ -34,6 +35,7 @@ Check out at its.id/tabola for Football Analytics with AI topics
 - **Theoretical Transportation Problem Optimization**
     - [2526E Dana : Inverse Harmonic Weight to Find IBFS](https://github.com/DanaS003/Inverse_Harmonic_Weighted_Transportation_Problem)
 - **Smart City with AI**
+    - [2526E Alendra : REDLAMP for Air Quality Anomaly Monitoring](https://github.com/alendrafif/REDLAMP_TA_5025221297)
     - [2526E Zharga : Bus Routing Suggestion using GA](https://github.com/ZhargaM8/TA). View related publication [here](https://ieeexplore.ieee.org/document/11369700)
 - **Software Development**
     - [2526E Koresy and Ranto : Re-engineering of TORA App for Transportation Problem](https://github.com/korekorokero/kyrbi).
